@@ -1,0 +1,1 @@
+# Waste_Sorting_App_Springboot
