@@ -132,7 +132,8 @@ Below are the available API endpoints:
 
 ### Testing the API
 - Use Postman or any HTTP client to test the endpoints.
-- Start with the `POST /api/waste-categories` endpoint to add categories.
+- Start with the `POST /api/waste-categories`
+- Example: http://localhost:8080/api/waste-categories
 - Use `GET` endpoints to fetch data.
 
 ## Example Data
